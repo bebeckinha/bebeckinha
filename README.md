@@ -17,7 +17,7 @@
 ### 𝗣𝗮𝗿𝗮 𝗰𝗼𝗻𝘁𝗮𝘁𝗼 𝗰𝗼𝗺𝗶𝗴𝗼 𝘀𝗲𝗴𝘂𝗲 𝗮𝗯𝗮𝗶𝘅𝗼!
  
 <div> 
-  <a href="https:https://www.instagram.com/bck4rt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/bck4rt/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "rebeca.carvalho4881@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "https://x.com/bck4rt"><img src="https://img.shields.io/badge/-X-%23E4405F?style=for-the-badge&logo=x&logoColor=white" target="_blank"></a>
 
